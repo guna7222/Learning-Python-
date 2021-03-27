@@ -49,6 +49,6 @@ print(count)
 # To check if a certain phrase or character is not present in a string.
 
 phrase = 'Python supports for scripting'
-print('programming' not in phrase) # in keyword is used 
+print('programming' not in phrase) # not in keyword is used 
 
 
