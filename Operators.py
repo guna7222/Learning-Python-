@@ -40,3 +40,8 @@ def subtraction(a, b):
 x = subtraction(165, 65)
 print(x)
 
+#Multiplication
+x = 10
+y = 20
+z = x*y
+print(f'the multiplication of {x} and {y} is:- {z}'.format(x, y, z))
