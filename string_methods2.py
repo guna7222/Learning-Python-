@@ -28,3 +28,10 @@ print(txt.endswith('.'))
 txt = "so, this is the example about endswith method."
 print(txt.startswith('s'))
 
+#swapcase converts upper case to lower case and lower case to uppercase
+txt = 'Example for swapcase METHOD IN StrINgs'
+print(txt.swapcase())
+
+#isspace returns True if all the characters are white space 
+txt = "    "
+print(txt.isspace())
