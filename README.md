@@ -8,7 +8,7 @@ This repo is about learning python from basic to advanced level.
 
 # Variables 👍
 A Variables are containers for storing data values
-## Assign a value to the variable
+Assign a value to the variable
 x = 'Hello World!'
 
 # Comments
