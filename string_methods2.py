@@ -35,3 +35,12 @@ print(txt.swapcase())
 #isspace returns True if all the characters are white space 
 txt = "    "
 print(txt.isspace())
+
+# difference between find() method and index() method
+'''
+find method returns -1 if specified value not present
+index method will through an error if specified value is not present
+'''
+txt = "hello world"
+print(txt.find('q'))
+print(txt.index('q'))
