@@ -45,3 +45,22 @@ x = 10
 y = 20
 z = x*y
 print(f'the multiplication of {x} and {y} is:- {z}'.format(x, y, z))
+
+# Division
+x = 10
+y = 2
+print(x/y)
+
+#Modulus 
+x = 20
+y = 10
+print(x % y)
+
+#Exponentiation 
+z = 2
+y = 5
+print(2 ** 5)
+
+# //Floor Division
+x = 10//2
+print(x)
