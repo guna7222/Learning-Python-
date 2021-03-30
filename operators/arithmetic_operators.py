@@ -1,13 +1,5 @@
 # Python Operators
-'''
-1)Arithmetic Operators
-2)Assignment Operators
-3)Comparision Operators
-4)Logical Operators
-5)Identity Operators
-6)Membership Operators
-7)Bitwise Operators
-'''
+#Arithmetic Operators
 '''
 1)Arithmetic operators
 + Addition 
