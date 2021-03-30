@@ -17,5 +17,26 @@
 % modulus
 ** Exponentiation 
 // Floor Division 
+'''
+# Addition 
+a = 20
+b = 25
+print(a+b)
 
-# Example for Addition 
+# Example 2
+x = 20
+y = x+20
+print(y)
+
+# Subtraction 
+y = 165
+z = 65
+print(y-z)
+
+# Subtraction using function
+def subtraction(a, b):
+    return a-b
+    
+x = subtraction(165, 65)
+print(x)
+
