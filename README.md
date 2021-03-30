@@ -13,6 +13,6 @@ Assign a value to the variable:-
 
 x = 'Hello World!'
 
-# Comments
+# Features of Python 
 
 
