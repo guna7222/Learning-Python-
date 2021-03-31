@@ -24,7 +24,7 @@ character is known as a string with the length of 1.
 # To access a element's in a string we can use square brackers[]
 
 elements = "accessing elements"
-print(elements[2]) # remember that first character is a position of 1
+print(elements[2]) # remember that first character is a position of 0
 
 # Looping through a string
 looping = 'looping through a string'
