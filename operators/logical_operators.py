@@ -5,3 +5,10 @@
 3)not - Return True, if statement is False, it opposite's the answer.
 '''
 # and 
+val = 10
+val1 = 20
+val2 = 30
+if (val < val1) and (val2 > val1):
+  print("Both statements are True")
+else:
+  print("Both statements are False")
