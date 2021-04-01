@@ -17,5 +17,10 @@ x = 'Hello World!'
 
 ![Features-of-python-01](https://user-images.githubusercontent.com/47294637/112961020-9b1b1d00-9162-11eb-834a-0d46d3d8e196.jpg)
 
+##Is Python programming language or scripting ?
+
+ANS:- Python is capable of scripting but in general sense it is consider as general purpose programming language.
+
+
 
 
