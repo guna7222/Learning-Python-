@@ -34,3 +34,42 @@ mylist1 = ['outlook', 'network_printers', 'local_printers']
 output = mylist.extend(mylist)
 print(output)
 # Ans:- None
+
+# Append() method is used to add the values at the end of the list
+mylist = ['ram', 'tcp_ip protocols', 'dhcp', 'dns']
+mylist.append("Router")
+print(mylist)
+
+# pop() method is used to remove specific index value in a list 
+# if you don't provide the index value in the pop method then it will remove the last item
+mylist = ['ram', 'tcp_ip protocols', 'dhcp', 'dns']
+mylist.pop(-1)
+print(mylist)
+
+# Another example
+mylist = ['ram', 'tcp_ip protocols', 'dhcp', 'dns']
+mylist.pop() # if you don't specify the index value in the pop method then it will remove the last item
+print(mylist)
+
+#del is a keyword
+mylist = ['ram', 'tcp-ip protocols', 'dhcp', 'dns']
+del mylist # this will delete entire list 
+
+# you can also use del keyword to remove specific indexed value in a list 
+mylist = ['ram', 'tcp-ip protocols', 'dhcp', 'dns']
+del mylist[0]
+print(mylist)
+
+# copy command is used to copy a certain list to another list 
+mylist = ['ram', 'tcp-ip protocols', 'dhcp', 'dns']
+mylist1 = mylist.copy()
+
+# remove() method is used to remove a certain value in a list
+mylist = ['ram', 'tcp-ip protocols', 'dhcp', 'dns']
+mylist.remove('dhcp')
+print(mylist)
+
+# clear method clears the entire list.
+mylist = ['ram', 'tcp-ip protocols', 'dhcp', 'dns']
+mylist.clear()
+print(mylist)
