@@ -17,3 +17,13 @@ beacuse sets are unordered.
 fruits  = {'apple', 'orange', 'watermelon', 'guvva'}
 fruits.pop()
 print(fruits)
+
+# del keyword deletes entire set
+fruits  = {'apple', 'orange', 'watermelon', 'guvva'}
+del fruits
+print(fruits) # NameError will raise because set is deleted
+
+#clear() method empty's the set
+fruits  = {'apple', 'orange', 'watermelon', 'guvva'}
+fruits.clear()
+print(fruits)
