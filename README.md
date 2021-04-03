@@ -1,6 +1,10 @@
 # Learning-Python-
 This repo is about learning python from basic to advanced level. 
 
+## What is Python?
+
+ANS:- Python is a general purpose, high level, interpreted, and dynamically typed programming language created by Guido Van Rossum in 1991.
+
 ![V1](https://user-images.githubusercontent.com/47294637/112960772-5c856280-9162-11eb-92f9-83b2ae3f34a8.jpg)
 
 # Hello world program 👍
