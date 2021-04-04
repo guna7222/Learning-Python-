@@ -19,3 +19,8 @@ print(key)
 this_dict["mobile_no"] = 82923
 print(this_dict)
 
+# values method return a list of all the values in the dict.
+this_dict = {"name":"gunasekhar R", 'age':23, 'door_no': 20.3, 'boo':True}
+val = this_dict.values()
+print(val)
+
