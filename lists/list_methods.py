@@ -73,3 +73,19 @@ print(mylist)
 mylist = ['ram', 'tcp-ip protocols', 'dhcp', 'dns']
 mylist.clear()
 print(mylist)
+
+#reverse method is used to reverse the list
+mylist = ['ram', 'tcp-ip protocols', 'dhcp', 'dns']
+mylist.reverse()
+print(mylist)
+
+#count() method return number how many times that the selected value apperas in the list.
+mylist = ['ram', 'tcp-ip protocols', 'dhcp', 'ram']
+count = mylist.count('ram')
+print(count)
+
+#index() method return the index of the specified value 
+mylist = ['ram', 'tcp-ip protocols', 'dhcp', 'ram']
+position = mylist.index('dhcp')
+print(position)
+
