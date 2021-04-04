@@ -3,3 +3,17 @@
 
 this_dict = {"name":"gunasekhar R", 'age':23, 'address':'andhra pradesh'}
 print(this_dict)
+
+#dict()
+this_dict = {"name":"gunasekhar R", 'age':23, 'address':'andhra pradesh'}
+print(len(this_dict)) # len() function is used to get the length of the dictionary. 
+
+# Ducplicate values are not allowed
+# Duplicate values will overwrite existing values.
+this_dict = {"name":"gunasekhar R", 'age':23, 'address':'andhra pradesh', "age":24}
+print(this_dict)
+
+# The value can be any data type 
+this_dict = {"name":"gunasekhar R", 'age':23, 'door_no': 20.3, 'boo':True}
+print(type(this_dict))
+print(this_dict)
