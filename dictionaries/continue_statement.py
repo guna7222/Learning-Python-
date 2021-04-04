@@ -2,7 +2,7 @@
 this_dict = {"name":"gunasekhar R", 'age':23, 'door_no': 20.3, 'boo':True}
 for i in this_dict:
     if i == 'name':
-        continue 
+        continue # with the continue statement we can stop the current iteration, and continue with the next
     print(i)
     
     
