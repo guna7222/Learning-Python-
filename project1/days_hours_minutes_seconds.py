@@ -32,7 +32,7 @@ while avaliable_menu != 'q':
         seconds()
     
     else:
-        print("unknow command")
+        print("Please select provided options ")
         
     avaliable_menu = input(" enter 'h' for hours or enter 'm' for minutes or enter 's' for seconds:- ")   
 
