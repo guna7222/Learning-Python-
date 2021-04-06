@@ -26,5 +26,6 @@ x = 'Hello World!'
 ANS:- Python is capable of scripting but in general sense it is consider as general purpose programming language.
 
 
-
+## what is PEP8?
+ANS:- PEP 8 stands for python enhancement proposal. It is a set of rule that specify how to format python code for maximum readability
 
