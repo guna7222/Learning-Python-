@@ -39,3 +39,14 @@ print(empty_string)
 st = {1,2,3,0}
 print(all(st))
 
+
+#tuple()
+tp = (1,2,3,4,5)
+print(all(tp))
+
+# dict()
+dt = {
+    0:'value1',
+    1:'value2'
+}
+print(all(dt))
