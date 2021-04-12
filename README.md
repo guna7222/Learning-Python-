@@ -29,7 +29,7 @@ ANS:- Python is capable of scripting but in general sense it is consider as gene
 ## what is PEP8?
 ANS:- PEP 8 stands for python enhancement proposal. It is a set of rule that specify how to format python code for maximum readability
 
-## what is all() built-in function?
+#### what is all() built-in function?
 ANS:- The all() function returns True if all elements in the given iterable are true. If not, it returns False.
 all() function takes a single parameter. 
 
