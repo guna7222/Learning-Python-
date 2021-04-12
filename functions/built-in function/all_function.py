@@ -1,6 +1,7 @@
-# lists 
-# all() built-in function 
-# all() function returns True if any element iteratable is True!
+# all() only one parameter
+# all(iterable)
+# all(list, tuple, dict, set)
+# The all() function returns True if all elements in the given iterable are true. If not, it returns False.
 x = [1,2,3,4,5]
 print(all(x))
 # Tip:- all values are True, True 
@@ -34,4 +35,7 @@ st = ' '
 empty_string = all(st)
 print(empty_string)
 
+#sets()
+st = {1,2,3,0}
+print(all(st))
 
