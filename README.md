@@ -36,3 +36,6 @@ all() function takes a single parameter.
 Syntax:- all(iterable)
 
 ![Capture](https://user-images.githubusercontent.com/47294637/114338327-78c8cc80-9b70-11eb-95ff-c52c3691625c.JPG)
+
+## More info about all() function.
+[a link] (https://github.com/guna7222/Learning-Python-/blob/main/functions/built-in%20function/all_function.py)
