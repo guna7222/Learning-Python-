@@ -33,6 +33,18 @@ txt = 'Example for swapcase METHOD IN StrINgs'
 print(txt.swapcase())
 
 #isspace returns True if all the characters are white space 
+
+'''
+join method syntax
+
+string.join(iterable)
+
+join method takes all the items in an iterable and joins them into a string
+'''
+
+ls = ['append', 'clear', 'insert']
+st = ' # '.join(ls)
+print(st)
 txt = "    "
 print(txt.isspace())
 
