@@ -1,0 +1,17 @@
+1) What is programming language?
+ans) A programming language is a simple way to give instructions to the computers. We give it in instruction manual and it follows. 
+
+2) What is programs?
+ans) A programs is a data that is being stored, removed and modified.
+
+3) which data type will consume more memory either int or float?
+ans) float because converting decimal point into binary is a bit difficult and values stores in different location after decimal point and before decimal point values. 
+
+4) what is bool ?
+ans) when you compare two values, it evalutes the result and python prints True or False.
+
+5) what is interpreter?
+ans) a line by line translation after the line execuation.
+
+6) what is compiler?
+ans) a compiler translates all the lines into byte file and then executes the file.
