@@ -73,4 +73,11 @@ Ans) float or floating point number is a positive number, or negative number wit
 14) Python an interpreted language. Explain?
 Ans) An interpreted programming language is any programming language which is not in machine level code before run time. Therefore python is interpreted programming language.
 
-15) 
+15) Difference between Dynamically typed and statically typed?
+Ans) Dynamically typed languages checks the data type during the execution.
+     Statically typed languages checks the data type before execution.
+     
+16) What is Camel Case?
+Ans) Each word except first, starts with capital leter.
+     Ex: myVariableName
+     
