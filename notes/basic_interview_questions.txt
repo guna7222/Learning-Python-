@@ -70,3 +70,7 @@ Ans) Integers or int is a whole number, positive number, negative number with ou
 Ans) float or floating point number is a positive number, or negative number with decimals points infinite length. 
      Ex: y = 23.3
           
+14) Python an interpreted language. Explain?
+Ans) An interpreted programming language is any programming language which is not in machine level code before run time. Therefore python is interpreted programming language.
+
+15) 
