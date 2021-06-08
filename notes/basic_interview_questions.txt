@@ -1,0 +1,15 @@
+1) What is Python?
+Ans) Python is a general purpose, high level, interpreted, and dynamically typed programming language created by guido van rossum in 1991.
+
+2) Is python programming language or scripting?
+Ans) Python is capable of scripting but in general sence it is consider as general programming language.
+
+3) what are comments in python?
+Ans) Comments are used to make code more readable.
+     Types of comments:- 
+     1) single line comments are defined using #
+     2) multiline comments are defined using doc strings '''     '''
+     
+4) What is String?
+Ans) String is sequence of characters.
+     Ex: 'Hello world'
