@@ -81,3 +81,19 @@ Ans) Dynamically typed languages checks the data type during the execution.
 Ans) Each word except first, starts with capital leter.
      Ex: myVariableName
      
+17) What is Pascal Case?
+Ans) Each word starts with a capital letter.
+     Ex: MyVariableName
+
+18) What is Snake case?
+Ans) Each word is separated by underscore character. 
+     Ex: my_variable_name
+     
+19) What is unpack a collection?
+Ans) If you have a collection of values in a list, tuple, etc., Python allows you to extrac the values into variables. This is called unpacking.
+
+20) What is Interpreted?
+Ans) Python Interpreter translates line by line, after execution of each line.
+
+21) What is compiler?
+Ans) Compiler translates all the lines and convert into a byte file and then executes the file.
