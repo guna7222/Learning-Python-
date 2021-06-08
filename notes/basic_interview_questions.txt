@@ -61,4 +61,12 @@ Ans) Identations are the white spaces at the begining of the code, where in othe
             print('yes')
          else:
             print('no')
+            
+12) What is intergers?
+Ans) Integers or int is a whole number, positive number, negative number with out decimal points with infinite length.
+     Ex: x = 23
+
+13) What is float?
+Ans) float or floating point number is a positive number, or negative number with decimals points infinite length. 
+     Ex: y = 23.3
           
