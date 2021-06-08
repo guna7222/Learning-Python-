@@ -13,3 +13,52 @@ Ans) Comments are used to make code more readable.
 4) What is String?
 Ans) String is sequence of characters.
      Ex: 'Hello world'
+     
+5) Features of Python?
+Ans) High level, 
+     Interpreted,
+     Large standard Libraries,
+     Object oriented,
+     Dynamically support,
+     Cross platfrom,
+     GUI support,
+     Portable,
+     Flexiable, 
+     Free and Open Source,
+     Huge community support.
+     
+6) What is programming Language?
+Ans) A programming language is the only way to give instructions to the computers, we will give it as manual instruction and it follows.
+
+7) What is Variables?
+Ans) Variables are containers for storing data values. A variable is created at the moment when you assign a value to it.
+     Ex: variable = 'Hello World!'
+     
+8) Is Python case-sensitive?
+Ans) Yes, Python is case sensitive language.
+     Ex: 'Hello' is not same as 'hello'
+     
+9) What are In-built data types in Python? 
+Ans) Text Type : str
+     Numeric Type: int, float, complex
+     Sequence Type: list, tuple, range
+     Mapping Type: dict
+     Set type : set, frozenset.
+     Boolean Type: bool
+     Binary Types: bytearray, bytes, memoryview.
+     
+10) Difference between list and tuple?
+Ans) list:- list are mutable, list are slower than tuple.
+     Ex: fruits = ['apple', 'graps']
+     tuple: tuples are immutable, faster than list.
+     Ex: names = ('gunasekhar', 'thrilok')
+     
+11) What is identation?
+Ans) Identations are the white spaces at the begining of the code, where in other programming languages indentation is used for only 
+     code readability, but in python indentation refers a block of code.
+     Ex: name = 'gunasekhar'
+         if 'e' in name:
+            print('yes')
+         else:
+            print('no')
+          
