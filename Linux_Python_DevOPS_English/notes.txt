@@ -1,0 +1,190 @@
+English:-
+--- 
+complacent - self-approving, self-satisfaction. 
+bare - uncover.
+anomaly - something deviates from what is normal, standard, expected. 
+absolution - forgiveness
+abnormal - unusual
+curb - control something that is not wanted. 
+restraint - measure or condition that keeps someone or something under control. 
+snatch - to take hold of something suddenly and roughly.
+engage - To employee someone. 
+inflation = a general, continuous increase in price. 
+prejudice - unfair and unreasonable opinion or feeling formed especilly when not having enough through or knowledged.
+prominent = important, famous, leading, well known
+
+Linux commands for DevOps
+---
+man 
+clear
+pwd
+whoami
+touch 
+cd
+echo
+ls
+cat
+cat >file.txt
+cat -n file.txt
+cat -e file.txt ( it will display $ at last of each line)
+cat file.txt | more
+cat file.txt | less
+su
+sudo useradd username
+sudo userdel username
+sudo groupadd groupname
+sudo groupdel groupname
+vi
+rm filename
+mkdir
+rmdir
+grep
+sort filename - command is used to sort the alphabets and numbers in a file or directory.
+sort -n filename - for numerical sort.
+1) What is Linux?
+Linux is a free and open source operating system based on unix, developed by Linux Torvald in 1991.
+2) Why Linux is preferable then other os?
+free
+open source
+high security
+stability, performance.
+
+
+Python:- 
+---
+1) What is python?
+Python is a general purpose, high-level, interpreted and dynamically typed programming language created by 
+Guido Van Rossum in 1991.
+
+2) What is Indentation in python?
+Indentation refers a white spaces at the begining of the code, where in other programming languages indentation is
+used for code readability, but in python indentation refers a block of code.
+
+3) what are comments in python?
+Comments are used to make code more readable.
+
+4) Variables?
+variables are containers for storing data types. 
+
+5) what is integer?
+int or integer is a whole number, positive number, or negative number without decimal points of infinite length.
+
+6) what is float?
+float or floating point number is a positive number or negative number with one or more decimal points. 
+
+7) To know cwd(current working direcory) in python?
+import os
+
+print(os.getcwd())
+
+8)slicing in python?
+specify the start index and end index, seperated by colon to return a part of string. 
+
+9) string methods
+upper
+lower
+strip
+casefold
+replace
+split
+format - format method takes the passed arguments, formats them and place them in the strings where the place holders are there. 
+capitalize
+count
+find 
+join - join method takes all the items in an iterables and joins them into one string.
+title
+swapcase 
+isalpha
+isalnum
+startswith
+endswith
+isdecimal
+isdigit
+index
+islower
+isupper
+
+10) boolean(bool)
+when you compare two values the expression is evaluated and python returns True or False. 
+
+11)operators?
+arithmetic, assignment, comparison, logical, bitwise, identity, membership.
+
+12) what is list?
+List is a collection, which is ordered, indexed and allow duplicate values. 
+
+13) list methods
+append
+insert
+remove
+pop
+clear
+extend
+index
+copy
+count
+reverse
+sort
+
+14) Tuples?
+tuple is a collection which is ordered, indexed and allow duplicate values but unchangable.
+
+15) list methods?
+count
+index
+
+16) sets in python?
+sets is a collection which is un-ordered, un-indexed, and won't allow duplicate values. 
+
+17) set methods
+add
+update
+discard
+remove
+pop
+clear
+copy
+intersection
+symmetric_difference
+union
+difference
+isdisjoint
+issuperset
+issubset
+
+18) How will you check the type of the object in Python?
+type() function is used to identify the type of object.
+
+19) parameter vs argument
+A parameter is the variable listed inside the parentheses in the function definition.
+An argument is the value that are sent to the function when it is called. 
+
+20) difference between list and tuple
+lists are mutable and slower than comparing with tuple, tuples are faster and un-mutable.
+
+21) features of python
+high-level,
+interpreted,
+dynamically typed,
+object-oriendted
+cross platform
+huge community support
+large standard libraies
+
+22) difference between static and dynamic?
+static: checks data type before execution
+dynamic : checks data type during execution.
+
+
+Devops:
+---
+What is DevOps?
+DevOps is a set of practices that combines software development (Dev) and IT operations (Ops).
+It aims to shorten the systems development life cycle and provide continuous delivery with high software quality. 
+
+2) What is the job of Software Developer in DevOps?
+Software Developer job is to develop the applications and send his code to operations team. 
+
+3) What is the job of operatios team?
+The operations team job is to test the code and give feedback to the developer if any bugs araise. if all goes well then 
+operations team will deploy the code to the build servers.
