@@ -12,6 +12,11 @@ engage - To employee someone.
 inflation = a general, continuous increase in price. 
 prejudice - unfair and unreasonable opinion or feeling formed especilly when not having enough through or knowledged.
 prominent = important, famous, leading, well known
+evade - escape or avoid (someone or something), especially by guile or trickery.(elude)
+strike = to hit something
+throughly = completely 
+probe = to search into and explore throughly. 
+
 
 Linux commands for DevOps
 ---
