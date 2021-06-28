@@ -180,6 +180,27 @@ large standard libraies
 static: checks data type before execution
 dynamic : checks data type during execution.
 
+23) what is interpreter?
+an interpreter translates line by line after execution of each line.
+(or)
+An interpreted language can be any programming language which is not in machine level code before run time.
+
+24) dictionaries
+a dict is a collection which is ordered, indexed, and won't allow duplicate values.
+
+25) methods
+clear
+copy
+pop
+popitem
+keys
+values
+items
+get
+update
+
+26)what is namespace?
+a namespace is a naming system in python used to make sure that names are unique to avoid naming conflicts. 
 
 Devops:
 ---
