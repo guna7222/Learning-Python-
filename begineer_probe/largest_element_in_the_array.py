@@ -25,3 +25,15 @@ for i in arr1:
     if i > max:
         max = i
 print(f' The largest number in the array is:- {max}')
+
+# Another way
+# Largest element in the array
+elements_len = int(input('Enter elements:- '))
+array = []
+for i in range(1, elements_len+1):
+    num = int(input('enter numbers:- '))
+    array.append(num)
+    largest_ele = max(array)
+print(largest_ele)
+    
+    
