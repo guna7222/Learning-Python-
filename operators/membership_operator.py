@@ -13,3 +13,16 @@ the object
 x = ["Docker", "Azure", "Linux"]
 print("Linux" not in x) # False 
 
+'''
+Membeship operator:-
+
+Returns True, if a sequence with the specified value present in the object.
+
+'''
+
+
+x = ['hello', 'world']
+if 'hello' in x:
+    print("Returns True, if a sequence with a specified value present in the object.")
+else:
+    print('It\'s not a Membership operator')
